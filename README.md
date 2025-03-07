@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a1dcc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444a4f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7a1dcc&size=35&center=true&vCenter=true&width=1000&lines=Hello+wordl+:%29;My+name+is+Mateus+;I'm+21+years+old;I+am+studying+Systems+Analysis+and+Development;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=444a4f&size=35&center=true&vCenter=true&width=1000&lines=Hello+wordl+:%29;My+name+is+Mateus+;I'm+21+years+old;I+am+studying+Systems+Analysis+and+Development;)](https://git.io/typing-svg) 
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusrtt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusrtt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusrtt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusrtt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -26,6 +26,8 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+
 
 #### Studying in this moment:
 
@@ -61,4 +63,4 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a1dcc&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444a4f&height=120&section=footer"/>
