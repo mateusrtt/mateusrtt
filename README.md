@@ -11,7 +11,7 @@
 
 ###
 
-## My Skills
+## My Skills:
 
 #### Main Stack
 
