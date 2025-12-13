@@ -1,6 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444a4f&height=120&section=header"/>
+# 🧑🏻‍💻Mateus Rotta
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=444a4f&size=35&center=true&vCenter=true&width=1000&lines=Hello+wordl+:%29;My+name+is+Mateus+;I'm+22+years+old;I+am+studying+Systems+Analysis+and+Development;)](https://git.io/typing-svg) 
+**`Back-end Developer C#`**
+
+I am Mateus, I am 22 years old, and I am a native of Catanduva São Paulo. I began my journey in the technology field through a technical course in Information Technology, in which I acquired fundamental knowledge and practical experience. Subsequently, I continued my studies in higher education, completing a degree in Systems Analysis and Development. During my degree, I developed a strong interest in the field of development, with a focus on back-end, and I continuously seek to improve my knowledge as a developer.
+
+<div> 
+<a href="https://www.instagram.com/mateus.rotta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+ <a href="https://www.linkedin.com/in/mateus-rotta-2a5ab9270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+
+<p align="left">
 
 ###
 
@@ -11,49 +21,10 @@
 
 ###
 
-## My Skills:
+## 💻Technologies
 
-#### Main Stack
+[![Skills](https://api.devicons.dev.br/icon?icons=CPP%2CCS%2CDotNet%2CPython%2CJavaScript%2CHTML%2CCSS%2CMSSQL%2CMySQL%2CAWS%2CDocker%2CGit%2CBootstrap%2CTailwindCSS%2CJira%2CVisualStudio%2CAndroidStudio%2CVSCode&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-
-
-
-#### Studying in this moment:
-
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-#### Databases:
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="https://www.instagram.com/mateus.rotta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
- <a href="https://www.linkedin.com/in/mateus-rotta-2a5ab9270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
-
-###
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusrtt/mateusrtt/output/github-contribution-grid-snake-dark.svg">
@@ -63,4 +34,3 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=444a4f&height=120&section=footer"/>
