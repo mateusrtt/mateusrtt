@@ -1,6 +1,6 @@
 # 🧑🏻‍💻Mateus Rotta
 
-**`Back-end Developer C#`**
+**`Back-end Developer`**
 
 I am Mateus, I am 22 years old, and I am a native of Catanduva São Paulo. I began my journey in the technology field through a technical course in Information Technology, in which I acquired fundamental knowledge and practical experience. Subsequently, I continued my studies in higher education, completing a degree in Systems Analysis and Development. During my degree, I developed a strong interest in the field of development, with a focus on back-end, and I continuously seek to improve my knowledge as a developer.
 
